@@ -48,7 +48,8 @@ options:
 
 <h2>😉 Tips: </h2>
 
-Use ChatGPT to write the transcript better, punctuation included. It can also be useful for summaries and maps.
+1. Use ChatGPT to write the transcript better, punctuation included. It can also be useful for summaries and maps.
+2. If the transcription fails even after trying the various levels of noise reduction and volume increase, try changing the parameters of the 'split_on_silence' function to better suit your requirements.
 
 <h2>💖Like my work?</h2>
 
