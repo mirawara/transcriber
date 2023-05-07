@@ -48,7 +48,7 @@ options:
 
 <h2>😉 Tips: </h2>
 
-Use ChatGPT to write the transcript better, punctuation included. It can also be useful for summaries and concept maps.
+Use ChatGPT to write the transcript better, punctuation included. It can also be useful for summaries and maps.
 
 <h2>💖Like my work?</h2>
 
