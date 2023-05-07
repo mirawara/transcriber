@@ -97,7 +97,8 @@ def process_chunk(chunk_filename):
                 language = "en-EN"
             text = r.recognize_google(audio_listened, language=language)
         except sr.UnknownValueError as e:
-            print("Error:", str(e))
+            pass
+            # print("Error:", str(e))
         else:
             text = f"{text.capitalize()}. "
             return text

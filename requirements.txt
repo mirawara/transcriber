@@ -1,0 +1,6 @@
+noisereduce
+numpy
+speech_recognition
+pydub
+scipy
+tqdm
