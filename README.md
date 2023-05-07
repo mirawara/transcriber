@@ -26,7 +26,7 @@ pip -r requirements.txt
 
 
 ```
-transcriber2.py [-h] -f FILE [-nr NOISE] -o OUT [-iv IV] [-l LANG]
+transcriber.py [-h] -f FILE [-nr NOISE] -o OUT [-iv IV] [-l LANG]
 
 options:
   -h, --help            show this help message and exit
