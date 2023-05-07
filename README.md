@@ -23,8 +23,9 @@ pip -r requirements.txt
 
 <h2>🖥️ Usage: </h2>
 <p>Manual:</p>
-```
 
+
+```
 transcriber2.py [-h] -f FILE [-nr NOISE] -o OUT [-iv IV] [-l LANG]
 
 options:
