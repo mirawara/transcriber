@@ -43,8 +43,12 @@ options:
  <p>Example: </p>
  
  ```
- python3 transcriber2.py -f audio_example/Subconscious_Learning.mp3  -o result.txt -nr 1
+ python3 transcriber.py -f audio_example/Subconscious_Learning.mp3  -o result.txt -nr 1
  ```
+
+<h2>😉 Tips: </h2>
+
+Use ChatGPT to write the transcript better, punctuation included. It can also be useful for summaries and concept maps.
 
 <h2>💖Like my work?</h2>
 
