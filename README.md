@@ -24,6 +24,7 @@ pip -r requirements.txt
 <h2>🖥️ Usage: </h2>
 <p>Manual:</p>
 ```
+
 transcriber2.py [-h] -f FILE [-nr NOISE] -o OUT [-iv IV] [-l LANG]
 
 options:
@@ -37,7 +38,9 @@ options:
   -l LANG, --language LANG
                         Language (Default: en-EN)
  ```
- <p>Example:</p>
+ 
+ <p>Example: </p>
+ 
  ```
  python3 transcriber2.py -f audio_example/Subconscious_Learning.mp3  -o result.txt -nr 1
  ```
